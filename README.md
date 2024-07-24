@@ -1,4 +1,6 @@
 # terraform-flask-sanity
+<img width="857" alt="Architecture of sanity setup" src="https://github.com/user-attachments/assets/d5e13d72-95ac-41e1-8c9d-3b6b209b4b1c">
+<img width="738" alt="Sanity Setup" src="https://github.com/user-attachments/assets/6a0e643d-b38c-41f8-85d2-cc8f37795efe">
 
 1. This project involves setting up a Flask application on an EC2 instance using Terraform.
 2. First, a VPC with a specified CIDR block is created, followed by a public subnet within the VPC.
